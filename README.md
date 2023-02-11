@@ -4,10 +4,21 @@ College details application is used to organize and manage the details of studen
 
 
 
+
+
+
+
+
 1)student details name ,rollno ,age ,10 th mark, 12 th mark, counselling
 2)staff details name, id, experince_years ,salary , position 
 3)lab assitent name, id
   
+
+
+
+
+
+
 
 
 
